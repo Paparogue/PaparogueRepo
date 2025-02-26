@@ -6,8 +6,8 @@
     "Description": "Because tab targeting is hard.",
     "Tags": [ "Utility", "UI", "Other" ],
     "InternalName": "Tabnado",
-    "AssemblyVersion": "1.4.2.0",
-    "TestingAssemblyVersion": "1.4.2.0",
+    "AssemblyVersion": "1.4.4.0",
+    "TestingAssemblyVersion": "1.4.4.0",
     "RepoUrl": "https://github.com/Paparogue",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 11,
@@ -15,9 +15,9 @@
     "IsTestingExclusive": "False",
     "DownloadCount": 9999,
     "LastUpdate": 1740182400,
-    "DownloadLinkInstall": "https://github.com/Paparogue/Tabnado/releases/download/v1.4.2/Tabnado_v1.4.2.zip",
-    "DownloadLinkUpdate": "https://github.com/Paparogue/Tabnado/releases/download/v1.4.2/Tabnado_v1.4.2.zip",
-    "DownloadLinkTesting": "https://github.com/Paparogue/Tabnado/releases/download/v1.4.2/Tabnado_v1.4.2.zip",
+    "DownloadLinkInstall": "https://github.com/Paparogue/Tabnado/releases/download/v1.4.4/Tabnado_v1.4.4.zip",
+    "DownloadLinkUpdate": "https://github.com/Paparogue/Tabnado/releases/download/v1.4.4/Tabnado_v1.4.4.zip",
+    "DownloadLinkTesting": "https://github.com/Paparogue/Tabnado/releases/download/v1.4.4/Tabnado_v1.4.4.zip",
     "IconUrl": "https://raw.githubusercontent.com/Paparogue/Tabnado/2579f4200a6ba0e60bd12eb6acd31be341e08490/tabnado.png"
   }
 ]
