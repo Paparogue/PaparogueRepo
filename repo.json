@@ -33,7 +33,7 @@
     "DownloadLinkTesting": "https://github.com/Paparogue/SearchCommentUltimate/releases/download/v1.0.0/SCU.zip",
     "IconUrl": "https://raw.github.com/Paparogue/SearchCommentUltimate/ef0a47920387ed29b2a599572156bbe9cfab4ea9/CommentSearch.png"
   },
-    {
+  {
     "Author": "Paparogue",
     "Name": "NoviceInviterReborn",
     "Punchline": "Auto invite sprouts to the Novice Network.",
@@ -49,5 +49,22 @@
     "DownloadLinkUpdate": "https://github.com/Paparogue/NoviceInviterReborn/releases/download/v1.2.0/NIR_v1.2.0.zip",
     "DownloadLinkTesting": "https://github.com/Paparogue/NoviceInviterReborn/releases/download/v1.2.0/NIR_v1.2.0.zip",
     "IconUrl": "https://raw.github.com/Paparogue/NoviceInviterReborn/ff850b1fd057abfff38318e20b1f48b1cd68e837/NoviceInviter.png"
+  },
+    {
+    "Author": "Paparogue",
+    "Name": "NoClippyUnchained",
+    "Punchline": "Feel the full extent of no animation locks.",
+    "Description": "Feel the full extent of no animation locks.",
+    "Tags": [ "Utility", "UI", "Other" ],
+    "InternalName": "NoClippyUnchained",
+    "AssemblyVersion": "0.6.0.0",
+    "TestingAssemblyVersion": "0.6.0.0",
+    "RepoUrl": "https://github.com/Paparogue",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 11,
+    "DownloadLinkInstall": "https://github.com/Paparogue/NoClippyUnchained/releases/download/v0.6.0/NoClippyUnchained.zip",
+    "DownloadLinkUpdate": "https://github.com/Paparogue/NoClippyUnchained/releases/download/v0.6.0/NoClippyUnchained.zip",
+    "DownloadLinkTesting": "https://github.com/Paparogue/NoClippyUnchained/releases/download/v0.6.0/NoClippyUnchained.zip",
+    "IconUrl": "https://raw.github.com/Paparogue/NoClippyUnchained/606ed286d0f83203ba7aeec765db6d82958571d8/Unchained.png"
   }
 ]
