@@ -7,13 +7,13 @@
     "Tags": [ "Utility", "UI", "Other" ],
     "InternalName": "Tabnado",
     "AssemblyVersion": "1.4.8.0",
-    "TestingAssemblyVersion": "1.4.8.0",
+    "TestingAssemblyVersion": "1.4.9.0",
     "RepoUrl": "https://github.com/Paparogue",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://github.com/Paparogue/Tabnado/releases/download/v1.4.8/Tabnado_v1.4.8.zip",
-    "DownloadLinkUpdate": "https://github.com/Paparogue/Tabnado/releases/download/v1.4.8/Tabnado_v1.4.8.zip",
-    "DownloadLinkTesting": "https://github.com/Paparogue/Tabnado/releases/download/v1.4.8/Tabnado_v1.4.8.zip",
+    "DownloadLinkInstall": "https://github.com/Paparogue/Tabnado/releases/download/v1.4.9/Tabnado_v1.4.9.zip",
+    "DownloadLinkUpdate": "https://github.com/Paparogue/Tabnado/releases/download/v1.4.9/Tabnado_v1.4.9.zip",
+    "DownloadLinkTesting": "https://github.com/Paparogue/Tabnado/releases/download/v1.4.9/Tabnado_v1.4.9.zip",
     "IconUrl": "https://raw.githubusercontent.com/Paparogue/Tabnado/2579f4200a6ba0e60bd12eb6acd31be341e08490/tabnado.png"
   },
   {
