@@ -6,7 +6,7 @@
     "Description": "Because tab targeting is hard.",
     "Tags": [ "Utility", "UI", "Other" ],
     "InternalName": "Tabnado",
-    "AssemblyVersion": "1.4.8.0",
+    "AssemblyVersion": "1.4.9.0",
     "TestingAssemblyVersion": "1.4.9.0",
     "RepoUrl": "https://github.com/Paparogue",
     "ApplicableVersion": "any",
