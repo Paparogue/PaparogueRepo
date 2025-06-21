@@ -24,13 +24,13 @@
     "Tags": [ "Utility", "UI", "Other" ],
     "InternalName": "AutoPartyFinder",
     "AssemblyVersion": "0.1.0.0",
-    "TestingAssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.3.7.0",
     "RepoUrl": "https://github.com/Paparogue",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://github.com/Paparogue/AutoPartyFinder/releases/download/v1.0.0/APF_Alpha_v0.1.0.zip",
-    "DownloadLinkUpdate": "https://github.com/Paparogue/AutoPartyFinder/releases/download/v1.0.0/APF_Alpha_v0.1.0.zip",
-    "DownloadLinkTesting": "https://github.com/Paparogue/AutoPartyFinder/releases/download/v1.0.0/APF_Alpha_v0.1.0.zip",
+    "DownloadLinkInstall": "https://github.com/Paparogue/AutoPartyFinder/releases/download/v0.3.7/APF_v0.3.7.zip",
+    "DownloadLinkUpdate": "https://github.com/Paparogue/AutoPartyFinder/releases/download/v0.3.7/APF_v0.3.7.zip",
+    "DownloadLinkTesting": "https://github.com/Paparogue/AutoPartyFinder/releases/download/v0.3.7/APF_v0.3.7.zip",
     "IconUrl": "https://raw.github.com/Paparogue/AutoPartyFinder/2304853fe6efff64fcaa4b2e02af6691c65ec2d3/logo.png"
   },
   {
