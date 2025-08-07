@@ -74,14 +74,14 @@
     "Description": "Feel the full extent of no animation locks.",
     "Tags": [ "Utility", "UI", "Other" ],
     "InternalName": "NoClippyUnchained",
-    "AssemblyVersion": "0.6.0.2",
-    "TestingAssemblyVersion": "0.6.0.2",
+    "AssemblyVersion": "1.0.0.1",
+    "TestingAssemblyVersion": "1.0.0.1",
     "RepoUrl": "https://github.com/Paparogue",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 12,
-    "DownloadLinkInstall": "https://github.com/Paparogue/NoClippyUnchained/releases/download/v6.0.2/NCU_v6.0.2.zip",
-    "DownloadLinkUpdate": "https://github.com/Paparogue/NoClippyUnchained/releases/download/v6.0.2/NCU_v6.0.2.zip",
-    "DownloadLinkTesting": "https://github.com/Paparogue/NoClippyUnchained/releases/download/v6.0.2/NCU_v6.0.2.zip",
+    "DalamudApiLevel": 13,
+    "DownloadLinkInstall": "https://github.com/Paparogue/NoClippyUnchained/releases/download/v1.0.1/NCU_v1.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/Paparogue/NoClippyUnchained/releases/download/v1.0.1/NCU_v1.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/Paparogue/NoClippyUnchained/releases/download/v1.0.1/NCU_v1.0.1.zip",
     "IconUrl": "https://raw.github.com/Paparogue/NoClippyUnchained/606ed286d0f83203ba7aeec765db6d82958571d8/Unchained.png"
   }
 ]
