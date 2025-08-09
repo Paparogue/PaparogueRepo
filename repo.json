@@ -28,9 +28,9 @@
     "RepoUrl": "https://github.com/Paparogue",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 13,
-    "DownloadLinkInstall": "https://github.com/Paparogue/AutoPartyFinder/archive/refs/tags/v0.7.8.zip",
-    "DownloadLinkUpdate": "https://github.com/Paparogue/AutoPartyFinder/archive/refs/tags/v0.7.8.zip",
-    "DownloadLinkTesting": "https://github.com/Paparogue/AutoPartyFinder/archive/refs/tags/v0.7.8.zip",
+    "DownloadLinkInstall": "https://github.com/Paparogue/AutoPartyFinder/releases/download/v0.7.8/APF_v0.7.8.zip",
+    "DownloadLinkUpdate": "https://github.com/Paparogue/AutoPartyFinder/releases/download/v0.7.8/APF_v0.7.8.zip",
+    "DownloadLinkTesting": "https://github.com/Paparogue/AutoPartyFinder/releases/download/v0.7.8/APF_v0.7.8.zip",
     "IconUrl": "https://raw.github.com/Paparogue/AutoPartyFinder/99fbcb558c4938d80dd29b177fed287c2aa7ef4a/apf.png"
   },
   {
