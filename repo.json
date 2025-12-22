@@ -10,7 +10,7 @@
     "TestingAssemblyVersion": "1.6.6.0",
     "RepoUrl": "https://github.com/Paparogue",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 13,
+    "DalamudApiLevel": 14,
     "DownloadLinkInstall": "https://github.com/Paparogue/Tabnado/releases/download/v1.6.6/Tabnado_v1.6.6.zip",
     "DownloadLinkUpdate": "https://github.com/Paparogue/Tabnado/releases/download/v1.6.6/Tabnado_v1.6.6.zip",
     "DownloadLinkTesting": "https://github.com/Paparogue/Tabnado/releases/download/v1.6.6/Tabnado_v1.6.6.zip",
